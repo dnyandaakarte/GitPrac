@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-13T16:11:53 IST" name="Suite" finished-at="2024-08-13T16:11:58 IST" duration-ms="4947">
+    <groups>
+    </groups>
+    <test started-at="2024-08-13T16:11:53 IST" name="Practice Test" finished-at="2024-08-13T16:11:58 IST" duration-ms="4947">
+      <class name="AtumationTestingPractice.SeleniumFrameworkDesign.RSALoginTest">
+        <test-method is-config="true" signature="lunchApplication()[pri:0, instance:AtumationTestingPractice.SeleniumFrameworkDesign.RSALoginTest@239a307b]" started-at="2024-08-13T16:11:53 IST" name="lunchApplication" finished-at="2024-08-13T16:11:57 IST" duration-ms="4023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lunchApplication -->
+        <test-method signature="loginToApp()[pri:0, instance:AtumationTestingPractice.SeleniumFrameworkDesign.RSALoginTest@239a307b]" started-at="2024-08-13T16:11:57 IST" name="loginToApp" finished-at="2024-08-13T16:11:58 IST" duration-ms="723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:AtumationTestingPractice.SeleniumFrameworkDesign.RSALoginTest@239a307b]" started-at="2024-08-13T16:11:58 IST" name="tearDown" finished-at="2024-08-13T16:11:58 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- AtumationTestingPractice.SeleniumFrameworkDesign.RSALoginTest -->
+    </test> <!-- Practice Test -->
+  </suite> <!-- Suite -->
+</testng-results>

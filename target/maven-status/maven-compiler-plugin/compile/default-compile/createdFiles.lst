@@ -1,0 +1,8 @@
+AtumationTestingPractice\PageObjects\CartPage.class
+AtumationTestingPractice\PageObjects\ConfirmationPage.class
+AtumationTestingPractice\PageObjects\ProductCataloge.class
+AutomationTestingPractice\Resources\ExtentReporterNG.class
+AtumationTestingPractice\PageObjects\CheckoutPage.class
+AtumationTestingPractice\PageObjects\LandingPage.class
+AtumationTestingPractice\PageObjects\OrderPage.class
+AutomationTestingPractice\AbstractClasses\AbstractComponents.class

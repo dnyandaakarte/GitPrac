@@ -1,0 +1,10 @@
+[
+    {
+        "email" : "testautomation123@gmail.com" ,
+        "password" : "Test@123"
+    } ,
+    {
+        "email" : "shetty@test.com" ,
+        "password" : "Test@123"
+    }
+]

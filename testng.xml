@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="true">
+	<listeners>
+		<listener class-name="AutomationTestingPractice.TestComponents.Listeners" />
+	</listeners>
+	<test thread-count="5" name="Practice Test">
+		<classes>
+			<class
+				name="AtumationTestingPractice.SeleniumFrameworkDesign.RSALoginTest" />
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
