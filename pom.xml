@@ -106,11 +106,11 @@
 			<artifactId>extentreports</artifactId>
 			<version>5.1.2</version>
 		</dependency>
-		<dependency>
+		<!--<dependency>
 			<groupId>AtumationTestingPractice</groupId>
-			<artifactId>ExtenReports</artifactId>
+			<artifactId>ExtentReports</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		</dependency>-->
 		<!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
 <dependency>
     <groupId>io.cucumber</groupId>

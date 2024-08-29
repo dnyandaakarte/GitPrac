@@ -37,6 +37,8 @@ public class FrameworkCodeTest extends BaseTest{
         OrderPage orderPage = productCataloge.goToOrderPage();
 		boolean flag = orderPage.confirmOrdersAndDelete(myList);
 		Assert.assertTrue(flag);
+		System.out.print("Hey");
+		System.out.println("changes are moved to git");
 	}
 	
 	
